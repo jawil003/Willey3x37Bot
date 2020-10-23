@@ -1,0 +1,26 @@
+{
+  "name": "willey3x37_bot",
+  "version": "1.0.0",
+  "description": "The ChatBot and more for my Twitch Channel",
+  "main": "index.ts",
+  "repository": "https://github.com/willey3x37",
+  "author": "Jannik Will",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^14.14.2",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "@types/tmi.js": "^1.4.2",
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node out/index.js",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+  }
+}

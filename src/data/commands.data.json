@@ -1,0 +1,18 @@
+[
+  {
+    "command": ["localtrack", "Localtrack", "LocalTrack", "localTrack"],
+    "answer": "LocalTrack wird eine App mit der lokale Unternehmen ihre Nachverfolgungslisten führen können und die angegebenen Kontaktmöglichkeiten validieren können. Das beste daran ist, dass das alles kostenlos bereitgestellt wird. Das ganze wird in React-Native auf JavaScript Basis realisiert. Stay Safe!"
+  },
+  {
+    "command": ["twitter"],
+    "answer": "Hier findest du meine Twitter Präsenz: https://twitter.com/Willey3x37."
+  },
+  {
+    "command": ["me"],
+    "answer": "Hey mein Name ist Jannik, ich bin 22 Jahre jung und studiere Wirtschaftsinformatik in Dortmund. Ich hoffe euch gut zu unterhalten mit etwas Gameplay (Fall Guys, Fortnite etc.) und viel Programmieren."
+  },
+  {
+    "command": ["github"],
+    "answer": "Hier sind meine Projekte gehostet: https://github.com/jawil003"
+  }
+]
